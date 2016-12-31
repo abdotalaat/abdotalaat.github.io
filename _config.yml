@@ -48,7 +48,9 @@ paginate_path: "blog/page:num"
 kramdown:
     input: GFM
 
-
+sass:
+    sass_dir: _sass
+    style: :compressed
 
 exclude:
   - Gemfile
