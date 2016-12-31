@@ -3,20 +3,11 @@ url: http://abdotalaat.github.io
 #baseurl: /technicalrex.com
 #url: http://abdotalaat.github.io
 
-title: AbdoBean
+title: Abdotalaat
 description: A blog about programming.
 
 
 
-tag_permalink_style: pretty
-tag_page_layout: tag
-tag_page_dir: tag
-
-tag_descriptions:
-    pegger: >
-        Pegger is a turn-based peg jumping game. The following posts form a tutorial
-        series covering data modeling, API design, and server- and client-side implementation
-        using Java, Google App Engine, Bootstrap, and AngularJS.
 
 authors:
     erik:
