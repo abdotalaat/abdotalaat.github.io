@@ -1,2 +1,2 @@
-# TechnicalRex.com
-Technical Rex web site hosted using GitHub Pages
+# http://abdotalaat.github.io/
+abdotalaat.github.io web site hosted using GitHub Pages
