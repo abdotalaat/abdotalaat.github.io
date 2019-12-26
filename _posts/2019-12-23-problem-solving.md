@@ -1,4 +1,3 @@
-<!DOCTYPE HTML>
 <html>
 	<head>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -75,11 +74,12 @@
 	</style>
 	</head>
 	
-	
+
 	
 	<body> 
-		<a href="https://twitter.com/sadi_late_riser?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @sadi_late_riser</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-		<a href="mailto:sadi.research@gmail.com">email: sadi [dot] research AT GmAiL [dot] COM</a>
+		
+		<a href="mailto:abdotalaatfcih@gmail.com">email: abdotalaatfcih[dot] COM</a>
+
 		<table>
 		<div class="heading">Pattern-00: Sliding Window(07)</div>
 			<tr>
@@ -227,7 +227,7 @@
 				<td>Solved in one pass. Because of similarity with the previous one (Khikz!)</td> <!-- Notes -->
 			</tr>
 			
-		</table><br><br>
+		</table> </br></br>
 		
 		
 		<table>
@@ -406,7 +406,7 @@
 				<td>NA</td> <!-- Notes -->
 			</tr>
 			
-		</table><br><br>
+		</table></br></br>
 		
 		<table>
 		<div class="heading">Pattern-02: Fast and Slow pointers(04) <span style="color: red">&#10084;</span>
@@ -648,8 +648,9 @@
 				<td>NA</td> <!-- Review1 -->
 				<td>NA</td> <!-- Review2 -->
 				<td>Solved iteratively with "Runtime: 0 ms, faster than 100.00% of C++ online submissions for Reverse Linked List II.
-Memory Usage: 8.6 MB, less than 100.00% of C++ online submissions for Reverse Lnked List II."... Yayyy!!! BUT.... it took a day to come up to this solution and there are recursive explanation in leet editorial which I should check, understand and code.<br>
-Also, the solution I did should be recoded. It killed me a lot!!!</td> <!-- Notes -->
+Memory Usage: 8.6 MB, less than 100.00% of C++ online submissions for Reverse Lnked List II."... Yayyy!!! BUT.... it took a day to come up to this solution and there are recursive explanation in leet editorial which I should check, understand and code.
+Also, the solution I did should be recoded. It killed me a lot!!!
+</td> <!-- Notes -->
 			</tr>
 			
 			<tr class="done">
@@ -1293,7 +1294,7 @@ Also, the solution I did should be recoded. It killed me a lot!!!</td> <!-- Note
 					<a href="https://leetcode.com/problems/k-closest-points-to-origin/">leet(medium)</a><br>
 				</td> <!-- Links -->
 				<td>YES</td> <!-- Read -->
-				<td><a href="https://github.com/SadiHassan/leet/blob/master/Medium/973_K_Closest_Points_to_Origin.cpp">YES</a></td> <!-- Code -->
+				<td> <a href="https://github.com/SadiHassan/leet/blob/master/Medium/973_K_Closest_Points_to_Origin.cpp"> YES</a></td> <!-- Code -->
 				<td>NA</td> <!-- SolUnd -->
 				<td>NA</td> <!-- Recoded -->
 				<td>NA</td> <!-- Review1 -->
@@ -1765,7 +1766,7 @@ Also, the solution I did should be recoded. It killed me a lot!!!</td> <!-- Note
 					<a href="https://leetcode.com/problems/k-closest-points-to-origin/">leet</a>
 				</td> <!-- Links -->
 				<td>DONE</td> <!-- Read -->
-				<td><a href=https://github.com/SadiHassan/leet/blob/master/Medium/973_K_Closest_Points_to_Origin.cpp">YES</a></td> <!-- Code -->
+				<td><a href="https://github.com/SadiHassan/leet/blob/master/Medium/973_K_Closest_Points_to_Origin.cpp">YES</a></td> <!-- Code -->
 				<td>NA</td> <!-- SolUnd -->
 				<td>NA</td> <!-- Recoded -->
 				<td>NA</td> <!-- Review1 -->
