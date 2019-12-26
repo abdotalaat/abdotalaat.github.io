@@ -1824,7 +1824,7 @@ Also, the solution I did should be recoded. It killed me a lot!!!
 				<td>01</td> <!-- LID -->
 				<td>BWC-07: 1168-Optimize Water Distribution in a Village</td> <!-- Title -->
 				<td>
-					<a href="https://leetcode.com/contest/biweekly-contest-7/problems/optimize-water-distribution-in-a-village/">leet
+					<a href="https://leetcode.com/contest/biweekly-contest-7/problems/optimize-water-distribution-in-a-village">leet</a>
 				</td> <!-- Links -->
 				<td>YES</td> <!-- Read -->
 				<td>NA</td> <!-- Code -->
@@ -1838,7 +1838,7 @@ Also, the solution I did should be recoded. It killed me a lot!!!
 				<td>02</td> <!-- LID -->
 				<td>WC-151: 1169-Invalid Transactions</td> <!-- Title -->
 				<td>
-					<a href="https://leetcode.com/contest/weekly-contest-151/problems/invalid-transactions/">leet
+					<a href="https://leetcode.com/contest/weekly-contest-151/problems/invalid-transactions">leet</a>
 				</td> <!-- Links -->
 				<td>YES</td> <!-- Read -->
 				<td>NA</td> <!-- Code -->
@@ -1852,7 +1852,7 @@ Also, the solution I did should be recoded. It killed me a lot!!!
 				<td>03</td> <!-- LID -->
 				<td>WC-151: 1171-Remove Zero Sum Consecutive Nodes from Linked List</td> <!-- Title -->
 				<td>
-					<a href="https://leetcode.com/contest/weekly-contest-151/problems/remove-zero-sum-consecutive-nodes-from-linked-list/">leet
+					<a href="https://leetcode.com/contest/weekly-contest-151/problems/remove-zero-sum-consecutive-nodes-from-linked-list">leet</a>
 				</td> <!-- Links -->
 				<td>YES</td> <!-- Read -->
 				<td>NA</td> <!-- Code -->
@@ -1866,7 +1866,7 @@ Also, the solution I did should be recoded. It killed me a lot!!!
 				<td>04</td> <!-- LID -->
 				<td>WC-151: 1172-Dinner Plate Stacks</td> <!-- Title -->
 				<td>
-					<a href="https://leetcode.com/contest/weekly-contest-151/problems/dinner-plate-stacks/">leet
+					<a href="https://leetcode.com/contest/weekly-contest-151/problems/dinner-plate-stacks">leet</a>
 				</td> <!-- Links -->
 				<td>NA</td> <!-- Read -->
 				<td>NA</td> <!-- Code -->
