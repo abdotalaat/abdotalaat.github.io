@@ -1930,9 +1930,9 @@ Also, the solution I did should be recoded. It killed me a lot!!!
 				<td>03</td> <!-- LID -->
 				<td>System Design</td> <!-- Title -->
 				<td>
-					<a href="https://leetcode.com/discuss/career/216554/From-0-to-clearing-UberAppleAmazonLinkedIn">leetcode good discussion</a> </br>
-					<a href="https://leetcode.com/discuss/career/229177/My-System-Design-Template">System Design Template</a> </br>
-					<a href="https://github.com/donnemartin/system-design-primer">System Design Premier</a> </br>
+					<a href="https://leetcode.com/discuss/career/216554/From-0-to-clearing-UberAppleAmazonLinkedIn">leetcode good discussion</a> <br>
+					<a href="https://leetcode.com/discuss/career/229177/My-System-Design-Template">System Design Template</a> <br>
+					<a href="https://github.com/donnemartin/system-design-primer">System Design Premier</a> <br>
 				</td> <!-- Links -->
 				<td>NA</td> <!-- Read -->
 				<td>NA</td> <!-- Code -->
