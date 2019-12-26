@@ -1780,7 +1780,7 @@ Also, the solution I did should be recoded. It killed me a lot!!!
 					<a href="https://leetcode.com/problems/next-greater-element-i/">leet</a>
 				</td> <!-- Links -->
 				<td>DONE</td> <!-- Read -->
-				<td><a href=https://github.com/SadiHassan/leet/blob/master/Easy/496_Next_Greater_Element_I.cpp">YES</a></td> <!-- Code -->
+				<td><a href="https://github.com/SadiHassan/leet/blob/master/Easy/496_Next_Greater_Element_I.cpp">YES</a></td> <!-- Code -->
 				<td>NA</td> <!-- SolUnd -->
 				<td>NA</td> <!-- Recoded -->
 				<td>NA</td> <!-- Review1 -->
@@ -1795,7 +1795,7 @@ Also, the solution I did should be recoded. It killed me a lot!!!
 					<a href="https://leetcode.com/problems/next-greater-element-ii/">leet</a>
 				</td> <!-- Links -->
 				<td>DONE</td> <!-- Read -->
-				<td><a href=https://github.com/SadiHassan/leet/blob/master/Medium/503_Next_Greater_Element_II.cpp">Work In Progress</a></td> <!-- Code -->
+				<td><a href="https://github.com/SadiHassan/leet/blob/master/Medium/503_Next_Greater_Element_II.cpp">Work In Progress</a></td> <!-- Code -->
 				<td>NA</td> <!-- SolUnd -->
 				<td>NA</td> <!-- Recoded -->
 				<td>NA</td> <!-- Review1 -->
