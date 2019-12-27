@@ -256,8 +256,8 @@
 				<td>YES</td> <!-- Read -->
 				<td><a href="https://github.com/abdotalaat/problem-solving/blob/master/src/main/java/com/abdotalaat/problems/TwoSum.java">YES</a></td> <!-- Code -->
 				<td>YES</td> <!-- SolUnd -->
-				<td>YES</td> <!-- Recoded -->
-				<td>YES</td> <!-- Review1 -->
+				<td>NA</td> <!-- Recoded -->
+				<td>NA</td> <!-- Review1 -->
 				<td>NA</td> <!-- Review2 -->
 				<td>Use the Map as auxiliary data structure to save the previous value </td> <!-- Notes -->
 			</tr>
