@@ -78,7 +78,7 @@
 	
 	<body> 
 		
-		<a href="mailto:abdotalaatfcih@gmail.com">email: abdotalaatfcih[dot] COM</a>
+		<a href="mailto:abdotalaatfcih@gmail.com">email: abdotalaatfcih.com</a>
 
 		<table>
 		<div class="heading">Pattern-00: Sliding Window(07)</div>
@@ -245,7 +245,7 @@
 				<th>Notes</th>
 			</tr>
 			
-			<tr >
+			<tr class="done">
 				<td>01</td> <!-- LID -->
 				<td>Pair with Target Sum (easy)</td> <!-- Title -->
 				<td>
@@ -254,12 +254,12 @@
 					<a href="https://leetcode.com/problems/two-sum/">leet (two sum) <br> </a>
 				</td> <!-- Links -->
 				<td>YES</td> <!-- Read -->
-				<td><a href="https://github.com/SadiHassan/leet/blob/master/Easy/1_Two_Sum.cpp">YES</a></td> <!-- Code -->
+				<td><a href="https://github.com/abdotalaat/problem-solving/blob/master/src/main/java/com/abdotalaat/problems/TwoSum.java">YES</a></td> <!-- Code -->
 				<td>YES</td> <!-- SolUnd -->
 				<td>YES</td> <!-- Recoded -->
 				<td>YES</td> <!-- Review1 -->
 				<td>NA</td> <!-- Review2 -->
-				<td>Two Pointers approach and Map approach coded</td> <!-- Notes -->
+				<td>Use the Map as auxiliary data structure to save the previous value </td> <!-- Notes -->
 			</tr>
 
 			<tr >
