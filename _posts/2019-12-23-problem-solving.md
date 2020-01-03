@@ -1269,7 +1269,7 @@ Also, the solution I did should be recoded. It killed me a lot!!!
 				<td>NA</td> <!-- Recoded -->
 				<td>NA</td> <!-- Review1 -->
 				<td>NA</td> <!-- Review2 -->
-				<td><a href="https://zpjiang.me/2017/11/13/top-k-elementes-system-design/">Nice Reading!</a> Template about pair and priority_queue. Need to practive PQ Min/Max heap with Pair data structure</td> <!-- Notes -->
+				<td><a href="https://zpjiang.me/2017/11/13/top-k-elementes-system-design/">Nice Reading!</a> Template about pair and priority_queue. Need to practive PQ Min/Max heap with Pair data structure, no need to create a new class as we can use Map.Entry as class and to get the value entry.getValue()/getKey(), we need to read about Comparator interface and compare method</td> <!-- Notes -->
 			</tr>
 			
 			<tr >
