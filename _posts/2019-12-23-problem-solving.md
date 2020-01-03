@@ -1256,7 +1256,7 @@ Also, the solution I did should be recoded. It killed me a lot!!!
 				<th>Notes</th>
 			</tr>
 			
-			<tr >
+			<tr class="done">
 				<td>01</td> <!-- LID -->
 				<td>Top K Numbers(easy)</td> <!-- Title -->
 				<td>
