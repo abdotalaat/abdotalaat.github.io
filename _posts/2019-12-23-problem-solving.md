@@ -103,8 +103,8 @@
 				<td>YES</td> <!-- Read -->
 				<td><a href="https://github.com/SadiHassan/leet/blob/master/Easy/MaximumSumSubarrayofSizeK.cpp">YES</a></td> <!-- Code -->
 				<td>NA</td> <!-- SolUnd -->
-				<td>2</td> <!-- Recoded -->
-				<td>2</td> <!-- Review1 -->
+				<td>0</td> <!-- Recoded -->
+				<td>0</td> <!-- Review1 -->
 				<td>simplicity is the main idea to solve the issue </td> <!-- Notes -->
 			</tr>
 			
