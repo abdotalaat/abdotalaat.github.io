@@ -78,7 +78,7 @@
 	
 	<body> 
 		
-		<a href="mailto:abdotalaatfcih@gmail.com">email: abdotalaatfcih.com</a>
+		<a href="mailto:abdotalaatfcih@gmail.com">email: abdotalaatfcih@gmail.com</a>
 
 		<table>
 		<div class="heading">Pattern-00: Sliding Window(07)</div>
@@ -105,7 +105,7 @@
 				<td>NA</td> <!-- SolUnd -->
 				<td>2</td> <!-- Recoded -->
 				<td>2</td> <!-- Review1 -->
-				<td>NA</td> <!-- Notes -->
+				<td>simplicity is the main idea to solve the issue </td> <!-- Notes -->
 			</tr>
 			
 			<tr >
