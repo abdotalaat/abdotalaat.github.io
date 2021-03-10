@@ -1934,13 +1934,16 @@ Also, the solution I did should be recoded. It killed me a lot!!!
 					<a href="https://leetcode.com/discuss/career/229177/My-System-Design-Template">System Design Template</a> <br>
 					<a href="https://github.com/donnemartin/system-design-primer">System Design Premier</a> <br>
 				</td> <!-- Links -->
-				<td>NA</td> <!-- Read -->
+				<td>1</td> <!-- Read -->
 				<td>NA</td> <!-- Code -->
 				<td>NA</td> <!-- SolUnd -->
 				<td>NA</td> <!-- Recoded -->
 				<td>NA</td> <!-- Review1 -->
 				<td>NA</td> <!-- Review2 -->
-				<td>NA</td> <!-- Notes -->
+				 <td><ul>
+				 	<li>Start and be consistent</li>
+					 <li>have fun and enjoy the ride</li>
+				</ul></td> <!-- Notes -->
 			</tr>
 			
 				
