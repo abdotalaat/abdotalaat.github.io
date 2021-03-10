@@ -1943,6 +1943,16 @@ Also, the solution I did should be recoded. It killed me a lot!!!
 				 <td><ul>
 				 	 <li>Start and be consistent</li>
 					 <li>Don't be in a hurry. Enjoy the ride :)</li>
+					 <li> Software design template
+					 	<ul>
+						 <li>What's Expected</li>
+						 <li>assumtion phase</li>
+						 <li>design target</li>
+						 <li>high level design </li>
+						 <li>in details design</li>
+						 <li> justification</li>
+					 	</ul>
+						</li>
 					 <li></li>
 				</ul></td> <!-- Notes -->
 			</tr>
