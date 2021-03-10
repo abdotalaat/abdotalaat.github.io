@@ -1941,8 +1941,9 @@ Also, the solution I did should be recoded. It killed me a lot!!!
 				<td>NA</td> <!-- Review1 -->
 				<td>NA</td> <!-- Review2 -->
 				 <td><ul>
-				 	<li>Start and be consistent</li>
-					 <li>have fun and enjoy the ride</li>
+				 	 <li>Start and be consistent</li>
+					 <li>Don't be in a hurry. Enjoy the ride :)</li>
+					 <li></li>
 				</ul></td> <!-- Notes -->
 			</tr>
 			
