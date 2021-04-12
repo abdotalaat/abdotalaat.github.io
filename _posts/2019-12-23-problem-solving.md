@@ -1615,11 +1615,11 @@ Also, the solution I did should be recoded. It killed me a lot!!!
 				</td> <!-- Links -->
 				<td>YES</td> <!-- Read -->
 				<td><a href="https://github.com/SadiHassan/leet/blob/master/Medium/207_Course_Schedule.cpp">YES</a></td> <!-- Code -->
-				<td>NA</td> <!-- SolUnd -->
+				<td>1</td> <!-- SolUnd -->
 				<td>NA</td> <!-- Recoded -->
 				<td>NA</td> <!-- Review1 -->
 				<td>NA</td> <!-- Review2 -->
-				<td>Coded BFS based approach. Need to code DFS one later</td> <!-- Notes -->
+				<td>Coded BFS based approach. Need to code DFS one later \n connected grraph or not  \n  has cycle (isvisted,isexplered)</td> </td> <!-- Notes -->
 			</tr>
 
 			<tr class = "done">
@@ -1634,7 +1634,7 @@ Also, the solution I did should be recoded. It killed me a lot!!!
 				<td>NA</td> <!-- Recoded -->
 				<td>NA</td> <!-- Review1 -->
 				<td>NA</td> <!-- Review2 -->
-				<td>Coded BFS based approach. Need to code DFS one later \n connected grraph or not  \n  has cycle (isvisted,isexplered)</td> <!-- Notes -->
+				<td>Coded BFS based approach. Need to code DFS one later<!-- Notes -->
 			</tr>
 
 			<tr>
