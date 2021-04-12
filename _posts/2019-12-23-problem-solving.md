@@ -1634,7 +1634,7 @@ Also, the solution I did should be recoded. It killed me a lot!!!
 				<td>NA</td> <!-- Recoded -->
 				<td>NA</td> <!-- Review1 -->
 				<td>NA</td> <!-- Review2 -->
-				<td>Coded BFS based approach. Need to code DFS one later</td> <!-- Notes -->
+				<td>Coded BFS based approach. Need to code DFS one later \n connected grraph or not  \n  has cycle (isvisted,isexplered)</td> <!-- Notes -->
 			</tr>
 
 			<tr>
